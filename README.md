@@ -5,4 +5,5 @@ The jar file is located at:
 ```
 out/artifacts/Hangman_Game_jar
 ```
+compatible with jdk15
 
